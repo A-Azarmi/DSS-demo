@@ -1,2 +1,2 @@
 # DSS-demo
-DSS demo bundle V 5.13
+ DSS Demo (web and web services) with java standalone
